@@ -7,7 +7,7 @@ A dialect translation model that translates between Standard German and Swabian 
 SwabianGPT is a specialized language model trained to translate between Standard German and the Swabian dialect. The model uses the LLAMA 3.1 8B architecture and was fine-tuned using QLoRA and DPO techniques.
 
 For a detailed explanation of the training process and technical details, check out my blog post:
-[SwabianGPT: How I finetuned a LLM for dialect-translation](https://www.marioraach.de/blog/8)
+[SwabianGPT: How I finetuned a LLM for dialect-translation](https://www.marioraach.de/blog/9)
 
 ## Models
 
